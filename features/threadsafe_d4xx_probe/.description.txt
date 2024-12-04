@@ -1,0 +1,1 @@
+Removed unsafe global variables in d4xx driver for managing initialization, all initialization logic is now stored and managed inside driver data
